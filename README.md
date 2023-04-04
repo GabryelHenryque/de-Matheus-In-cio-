@@ -7,7 +7,7 @@
 <------------------------------------------------------------------->
 
 <a href="https://github.com/GabryelHenryque/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielHenrique&show_icons=false&theme=gotham" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielHenrique&show_icons=false&theme=radical" />
 </a>
 
 <div style="display: inline_block"><br>
